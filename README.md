@@ -1,2 +1,2 @@
 # SudokuSolver
-Software implementation of a sudoku solver
+Software implementation of a sudoku solver.
